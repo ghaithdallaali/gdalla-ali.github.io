@@ -64,6 +64,7 @@ body {
   color: white;
   font-family: inherit;
   font-size: 0.8em;
+  outline: 0;
 }
 .btn:hover {
   background-color: rgb(9, 77, 125);
